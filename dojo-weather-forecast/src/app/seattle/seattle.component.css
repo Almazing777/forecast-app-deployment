@@ -1,0 +1,24 @@
+*{
+  padding: 10px;
+  margin: 10px;
+}
+
+
+/* div {
+  width: 700px;
+  margin: 0 auto;
+  vertical-align: top;
+}
+section {
+  width: 300px;
+  min-height: 200px;
+  display: inline-block;
+  text-align: left;
+} */
+
+img {
+  vertical-align: top;
+  padding-top: 30px;
+  width: 450px;
+  display: inline-block;
+}
